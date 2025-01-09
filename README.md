@@ -1,4 +1,4 @@
-# Glam Guide (mobile)
+# Uber Clone (mobile)
 
 ## Description
 
